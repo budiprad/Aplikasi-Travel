@@ -59,7 +59,7 @@ CREATE TABLE `pelanggan` (
 --
 
 INSERT INTO `pelanggan` (`id_pel`, `nama_pel`, `no_telp`, `asal`) VALUES
-(1, 'Budi', '081337033125', 'Ubud'),
+(1, 'Budi', '081337044144', 'Ubud'),
 (2, 'Gus Angga', '081331934156', 'Tampaksiring'),
 (4, 'Joil', '087667123456', 'Mengwi');
 
